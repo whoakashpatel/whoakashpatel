@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Akash Patel
-- 👀 I’m interested in Web Dev and sometimes Arduino & Esp8266
-- 🌱 I’m currently pursuing a drop year.
+- 👀 Currently exploring Web Dev and sometimes Arduino & Esp8266
+- 🌱 About to get into UG.
 - 📫 Reach me at akash.patel9690@gmail.com
