@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akash Patel
-- 👨‍💻 Just started w C
+- 👨‍💻 Learning C for now
 - 👀 Have explored Web Dev and Arduino/Esp8266 before
 - 🌱 Doin UG from IIITDMK.
 - 📫 Reach me at akash.patel9690@gmail.com
