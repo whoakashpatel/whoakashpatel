@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Akash Patel
-- 👀 Currently exploring Web Dev and sometimes Arduino & Esp8266
-- 🌱 About to get into UG.
+- 👨‍💻 Just started w C
+- 👀 Have explored Web Dev and Arduino/Esp8266 before
+- 🌱 Doin UG from IIITDMK.
 - 📫 Reach me at akash.patel9690@gmail.com
